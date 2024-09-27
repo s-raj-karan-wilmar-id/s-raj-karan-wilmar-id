@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S. Raj Karan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate JIRA developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srajkaran&label=Profile%20views&color=0e75b6&style=flat" alt="senju002" /> </p>
 
