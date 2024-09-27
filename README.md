@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senju002&theme=onedark" alt="senju002" /></a> </p>
 
-- 🔭 I’m currently working on [Pajak](https://github.com/Senju002/pajak)
-
-- 🌱 I’m currently learning **Advance React and React Native**
-
-- 📫 How to reach me **rajkaran.mei34@gmail,com**
+- 📫 How to reach me **sraj.karan@id.wilmar-intl.com**
 
 - ⚡ Fun fact **I think alien does EXIST**
 
